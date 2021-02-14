@@ -1,0 +1,10 @@
+{
+  "detection_nbdev": {
+    "Overview": "/",
+    "dataset": "dataset.html",
+    "model": "model.html",
+    "metrics": "metrics.html",
+    "utils": "utils.html",
+    "Testing pytorch models": "tutorial.html"
+  }
+}
